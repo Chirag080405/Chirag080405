@@ -62,7 +62,7 @@ Feel free to explore my repositories, and don’t hesitate to reach out for coll
 ---
 
 ## 📫 Contact & Collaboration
-I am always open to collaborations, mentorship opportunities, and discussions on AI, Machine Learning, blockchain, or any other technology-related topics. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/chiraghariprasad).
+I am always open to collaborations, mentorship opportunities, and discussions on AI, Machine Learning, blockchain, or any other technology-related topics. Feel free to reach out through [LinkedIn](www.linkedin.com/in/chirag-hariprasad).
 
 ---
 
