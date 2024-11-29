@@ -1,7 +1,3 @@
-Here’s a personalized and updated version of your **GitHub README** that reflects your background and current work. I’ve tailored it based on the information you've shared:
-
----
-
 # Chirag H | AI & ML Enthusiast
 
 Welcome to my GitHub profile! I'm a second-year **Artificial Intelligence and Machine Learning (AI & ML)** student at **RV College of Engineering**, Bengaluru. I have a strong foundation in software development, quality assurance, and project management, honed through academic projects, internships, and personal endeavors.
